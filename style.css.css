@@ -1,0 +1,9 @@
+.navbar {
+    background-color: green !important;
+}
+
+.card{
+    padding: 30px;
+    margin: 10px;
+    border: 1px solid black !important;
+    border-radius: 20px !important;
